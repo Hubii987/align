@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/align.iml" filepath="$PROJECT_DIR$/.idea/align.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../graphene_lab_gui/.idea/graphene_lab_gui.iml" filepath="$PROJECT_DIR$/../graphene_lab_gui/.idea/graphene_lab_gui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../qubib/.idea/qubib.iml" filepath="$PROJECT_DIR$/../qubib/.idea/qubib.iml" />
+    </modules>
+  </component>
+</project>

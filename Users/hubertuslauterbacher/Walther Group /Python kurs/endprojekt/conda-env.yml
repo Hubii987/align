@@ -1,0 +1,14 @@
+name: nwe
+
+channels:
+  - default
+  - conda-forge
+
+dependencies:
+  - python==3.11
+  - pandas
+  - geopandas
+  - openpyxl
+  - mkdocs
+  - mkdocstrings
+  - mkdocstrings-python
